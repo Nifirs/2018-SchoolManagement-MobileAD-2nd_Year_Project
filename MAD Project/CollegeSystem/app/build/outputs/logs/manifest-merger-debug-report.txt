@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\e407e1824d55fe55d5bc2b1be4da3d06\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\e8ea3fffbab51ee7867d4dd4d63a352e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\24757cc47537462e3d187ee5c8c0df76\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\a6980eae2cc9d343d3a11565584fe3b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\bb4f7e1dc6b58474c8215adc113ae0d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\d11be86572b7e5731fea78b224270391\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\cad1ffa2b5af0885e1c32f30415a8fc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\5002fb234fe11b6331d08728be758616\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\445d8595bd497e39c07c3d09000948e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\394646cadcb34708e6ccc50a9d96a673\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\611ff3d194b8eaf6108963d0b629709b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\7fef72ccc1c280f7887c6b56833380b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b05afda15b06d8271ee3b9d1bbf8f191\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\339677c2574082b4ba4b02f53f460666\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\f3a1e56d85629ce67d5b74659f3be1b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3086da543b63a57810c27decb9a6fe08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\b8d2308ba435e3d9a6c03822ec7e65dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\ce93c929f2725b7ada5b2e3eaa49ac8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\fccc49266572d7d88080201f5481056b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9e466a36bfd51125f0aaeae894f7aa7f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\6119a90c89c5a119cc562a70553071a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\eff849ec2033890747f2a1b312794229\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\56c4cbe085c25acb230e5f2071d698d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\6f2c4fe29d6cd1ef0ca770cdbc69a274\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\03372b6a20117e618da1bcca2d5529ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\0ac7a86188bc747ba9da08785fd6d7a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\869d6549dea008a0f3345b93872ee11f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\78506f7ed95ab1fa3ad63754b0e01db4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\33c728810204c1847fe319140840041f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\74deb0c88cc3bc570c4c8d176967d5e7\AndroidManifest.xml:17:1-22:12
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:5:5-43:19
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\e407e1824d55fe55d5bc2b1be4da3d06\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\e407e1824d55fe55d5bc2b1be4da3d06\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\24757cc47537462e3d187ee5c8c0df76\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\24757cc47537462e3d187ee5c8c0df76\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\fccc49266572d7d88080201f5481056b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\fccc49266572d7d88080201f5481056b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9e466a36bfd51125f0aaeae894f7aa7f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9e466a36bfd51125f0aaeae894f7aa7f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\fccc49266572d7d88080201f5481056b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:8:9-49
+	android:roundIcon
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:11:9-40
+activity#madproject.collegesystem.LoginInterface
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:16:27-74
+activity#madproject.collegesystem.Home
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:19:9-42
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:19:19-39
+meta-data#preloaded_fonts
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:21:9-23:57
+	android:resource
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:23:13-54
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:22:13-43
+activity#madproject.collegesystem.InsertexamData
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:25:19-49
+activity#madproject.collegesystem.StudentUI
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:28:9-30:20
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:28:19-44
+activity#madproject.collegesystem.StaffUI
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:31:9-33:20
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:31:19-42
+activity#madproject.collegesystem.LabUI
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:34:9-36:20
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:34:19-40
+activity#madproject.collegesystem.ExamorAverage
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:37:9-51
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:37:19-48
+activity#madproject.collegesystem.AverageCalculator
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:38:9-55
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:38:19-52
+activity#madproject.collegesystem.register
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:39:9-46
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:39:19-43
+activity#madproject.collegesystem.staffmain
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:40:9-47
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:40:19-44
+activity#madproject.collegesystem.staffregistration
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:41:9-55
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:41:19-52
+activity#madproject.collegesystem.leaveapplication
+ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:42:9-63
+	android:name
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml:42:19-51
+uses-sdk
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\e407e1824d55fe55d5bc2b1be4da3d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\e407e1824d55fe55d5bc2b1be4da3d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\e8ea3fffbab51ee7867d4dd4d63a352e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\e8ea3fffbab51ee7867d4dd4d63a352e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\24757cc47537462e3d187ee5c8c0df76\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\24757cc47537462e3d187ee5c8c0df76\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\a6980eae2cc9d343d3a11565584fe3b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\a6980eae2cc9d343d3a11565584fe3b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\bb4f7e1dc6b58474c8215adc113ae0d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\bb4f7e1dc6b58474c8215adc113ae0d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\d11be86572b7e5731fea78b224270391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\d11be86572b7e5731fea78b224270391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\cad1ffa2b5af0885e1c32f30415a8fc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\cad1ffa2b5af0885e1c32f30415a8fc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\5002fb234fe11b6331d08728be758616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\5002fb234fe11b6331d08728be758616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\445d8595bd497e39c07c3d09000948e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\445d8595bd497e39c07c3d09000948e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\394646cadcb34708e6ccc50a9d96a673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\394646cadcb34708e6ccc50a9d96a673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\611ff3d194b8eaf6108963d0b629709b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\611ff3d194b8eaf6108963d0b629709b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\7fef72ccc1c280f7887c6b56833380b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\7fef72ccc1c280f7887c6b56833380b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b05afda15b06d8271ee3b9d1bbf8f191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b05afda15b06d8271ee3b9d1bbf8f191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\339677c2574082b4ba4b02f53f460666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\339677c2574082b4ba4b02f53f460666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\f3a1e56d85629ce67d5b74659f3be1b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\f3a1e56d85629ce67d5b74659f3be1b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3086da543b63a57810c27decb9a6fe08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3086da543b63a57810c27decb9a6fe08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\b8d2308ba435e3d9a6c03822ec7e65dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\b8d2308ba435e3d9a6c03822ec7e65dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\ce93c929f2725b7ada5b2e3eaa49ac8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\ce93c929f2725b7ada5b2e3eaa49ac8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\fccc49266572d7d88080201f5481056b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\fccc49266572d7d88080201f5481056b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9e466a36bfd51125f0aaeae894f7aa7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9e466a36bfd51125f0aaeae894f7aa7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\6119a90c89c5a119cc562a70553071a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\6119a90c89c5a119cc562a70553071a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\eff849ec2033890747f2a1b312794229\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\eff849ec2033890747f2a1b312794229\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\56c4cbe085c25acb230e5f2071d698d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\56c4cbe085c25acb230e5f2071d698d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\6f2c4fe29d6cd1ef0ca770cdbc69a274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\6f2c4fe29d6cd1ef0ca770cdbc69a274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\03372b6a20117e618da1bcca2d5529ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\03372b6a20117e618da1bcca2d5529ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\0ac7a86188bc747ba9da08785fd6d7a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\0ac7a86188bc747ba9da08785fd6d7a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\869d6549dea008a0f3345b93872ee11f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\869d6549dea008a0f3345b93872ee11f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\78506f7ed95ab1fa3ad63754b0e01db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\78506f7ed95ab1fa3ad63754b0e01db4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\33c728810204c1847fe319140840041f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\33c728810204c1847fe319140840041f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\74deb0c88cc3bc570c4c8d176967d5e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nilfa.RS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\74deb0c88cc3bc570c4c8d176967d5e7\AndroidManifest.xml:20:5-44
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+		ADDED from N:\CollegeSystem\app\src\main\AndroidManifest.xml
+		INJECTED from N:\CollegeSystem\app\src\main\AndroidManifest.xml

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="madproject.collegesystem">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="School Management System"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginInterface">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Home" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".InsertexamData">
+            android:label="Exam Marks Insertion"
+        </activity>
+        <activity android:name=".StudentUI">
+            android:label="Students Management"
+        </activity>
+        <activity android:name=".StaffUI">
+            android:label="Staff Management"
+        </activity>
+        <activity android:name=".LabUI">
+            android:label="Labs Management"
+        </activity>
+        <activity android:name=".ExamorAverage" />
+        <activity android:name=".AverageCalculator" />
+        <activity android:name=".register" />
+        <activity android:name=".staffmain" />
+        <activity android:name=".staffregistration" />
+        <activity android:name=".leaveapplication"></activity>
+    </application>
+
+</manifest>
